@@ -7,7 +7,7 @@ def upp_text(input_text):
 
 def title_text(input_text):
     """
-      выводит первые заглавные буквы
+    выводит первые заглавные буквы
     """
     title_text = input_text.title()
     return title_text()
